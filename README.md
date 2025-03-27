@@ -6,7 +6,7 @@ I'm a Backend Developer currently working at FPT Information System and a studen
 
 About Me
 - 🔭 I’m currently working at FPT Information System
-- 🌱 I’m currently learning at FPT University
+- 🌱 I graduated at FPT University
 - 👯 I’m looking to collaborate on projects related to web development
 - 🤔 I’m looking for help with advanced backend techniques and UI/UX design
 - 💬 Feel free to ask me anything or reach out for collaborations
